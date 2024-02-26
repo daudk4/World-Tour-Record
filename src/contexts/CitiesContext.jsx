@@ -7,10 +7,7 @@ import {
   useCallback,
 } from 'react';
 
-// const BASE_URL = 'http://localhost:9000';
-
-const BASE_URL =
-  'https://65dc699e61370ca05f87c8de--timely-kataifi-28d04f.netlify.app';
+const BASE_URL = 'http://localhost:9000';
 
 const CitiesContext = createContext();
 
